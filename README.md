@@ -9,7 +9,7 @@ join a hood, one can see businesses and posts in only that wood they belong to.
  Click [View Site](https://dahood.herokuapp.com/) 
   
 
-###### Home page
+
  
 <img src="https://ucarecdn.com/457f313d-4181-4d86-aca7-a91151d80707/hood.png">
 
