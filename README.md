@@ -24,7 +24,7 @@ To get the project .......
   
 ##### Cloning the repository:  
  ```bash 
-https://github.com/Owiti-Charles/HoodWatch.git
+ 
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
