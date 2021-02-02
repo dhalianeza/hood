@@ -23,9 +23,7 @@ join a hood, one can see businesses and posts in only that wood they belong to.
 To get the project .......  
   
 ##### Cloning the repository:  
- ```bash 
- 
-```
+ ` 
 ##### Navigate into the folder and install requirements  
  ```bash 
 cd HoodWatch 
