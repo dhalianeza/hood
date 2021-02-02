@@ -8,11 +8,6 @@ join a hood, one can see businesses and posts in only that wood they belong to.
 ##  Live Link  
  Click [View Site](https://dahood.herokuapp.com/) 
   
-
-
- 
- 
-
  
 ## User Story  
   
