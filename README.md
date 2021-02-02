@@ -11,7 +11,7 @@ join a hood, one can see businesses and posts in only that wood they belong to.
  
 ## User Story  
   
-* Sign in with the application to start using.
+* Sign in/create account  to acccess the application .
 * Set up a profile about me and a general location and my neighborhood name.
 * Find a list of different businesses in my neighborhood.
 * Find Contact Information for the health department and Police authorities near my neighborhood.
