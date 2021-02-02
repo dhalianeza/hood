@@ -51,7 +51,7 @@ python manage.py makemigrations hood
 ``` 
 ##### Testing the application  
  ```bash 
- python manage.py test 
+ python3.6 manage.py runserver 
 ```
 Open the application on your browser `127.0.0.1:8000`.  
   
