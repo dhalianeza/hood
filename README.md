@@ -43,7 +43,7 @@ python manage.py makemigrations hood
  ``` 
  Now Migrate  
  ```bash 
- python manage.py migrate 
+ 
 ```
 ##### Run the application  
  ```bash 
