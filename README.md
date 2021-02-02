@@ -35,9 +35,9 @@ cd HoodWatch
 - python3.6.12 -m venv virtual - source virtual/bin/activate  
 ```  
 ##### Install Dependencies  
- ```bash 
+ 
  pip install -r requirements.txt 
-```  
+  
  ##### Setup Database  
   SetUp your database User,Password, Host then make migrate  
  ```bash 
