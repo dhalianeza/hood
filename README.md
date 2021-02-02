@@ -6,7 +6,7 @@
 Tis is a neighborhood app where a user must signup first, be able to join a hood owned by the hood admin, and once you 
 join a hood, one can see businesses and posts in only that wood they belong to.  
 ##  Live Link  
- Click [View Site](https://dahood.herokuapp.com/)  to visit the site
+ Click [View Site](https://dahood.herokuapp.com/) 
   
 ## Screenshots 
 ###### Home page
