@@ -31,9 +31,9 @@ To get the project .......
 cd HoodWatch 
 ```
 ##### Install and activate Virtual  
- ```bash 
+ 
 - python3.6.12 -m venv virtual - source virtual/bin/activate  
-```  
+
 ##### Install Dependencies  
  
  pip install -r requirements.txt 
