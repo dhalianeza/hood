@@ -15,13 +15,13 @@
         <li class="mb-4">
             <a href="{% url 'edit-profile' user.username %}">
                 <i class="fas fa-edit"></i>&nbsp;
-                &nbsp; Edit Profile
+                &nbsp; update Profile
             </a>
         </li>
         <li class="mb-4">
             <a href="{% url 'hood' %}">
                 <i class="fas fa-home"></i>&nbsp;
-                &nbsp; Hoods
+                &nbsp;Activities/Hoods
             </a>
         </li>
 
@@ -35,7 +35,7 @@
         {% else %}
         <li class="mb-4">
             <a href=""> &nbsp;
-                No Hood Yet
+                no signed hood
             </a>
         </li>
         {% endif %}
