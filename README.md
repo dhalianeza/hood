@@ -66,7 +66,7 @@ Open the application on your browser `127.0.0.1:8000`.
 ## Known Bugs  
 * There are no known bugs  everythings works well
 ## Contact Information   
-If you have any question or contributions, please email me at [daliaprecious4@gmail.com]
+In case you have any question or suggestions, please email me at [daliaprecious4@gmail.com]
 ## License 
    
 * Copyright (c) 2021 **preciousdarly**
