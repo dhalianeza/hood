@@ -22,12 +22,7 @@ join a hood, one can see businesses and posts in only that wood they belong to.
 ## Setup and Installation  
 To get the project .......  
   
-##### Cloning the repository:  
- ` 
-##### Navigate into the folder and install requirements  
- ```bash 
-cd HoodWatch 
-```
+ 
 ##### Install and activate Virtual  
  
 - python3.6.12 -m venv virtual - source virtual/bin/activate  
