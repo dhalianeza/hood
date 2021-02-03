@@ -21,7 +21,6 @@ join a hood, one can see businesses and posts in only that wood they belong to.
   
 ## Setup and Installation  
 To get the project .......  
-  
  
 ##### Install and activate Virtual  
  
