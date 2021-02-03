@@ -26,10 +26,6 @@ To get the project .......
 ##### Install and activate Virtual  
  
 - python3.6.12 -m venv virtual - source virtual/bin/activate  
-
-##### Install Dependencies  
- 
- pip install -r requirements.txt 
   
  ##### Setup Database  
   SetUp your database User,Password, Host then make migrate  
