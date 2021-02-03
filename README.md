@@ -69,6 +69,5 @@ Open the application on your browser `127.0.0.1:8000`.
 ## Contact Information   
 If you have any question or contributions, please email me at [daliaprecious4@gmail.com]
 ## License 
-
-* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/Owiti-Charles/Picture-Globe/blob/master/LICENSE)  
+   
 * Copyright (c) 2021 **preciousdarly**
